@@ -1,3 +1,8 @@
 .gradle
 */build/
 */.gradle
+/MockitoDemo/.nb-gradle/
+/MatkakorttiMockito/.nb-gradle/
+/VerkkokauppaSpring/.nb-gradle/
+/IntJoukkoSovellus/.nb-gradle/
+/Tennis/.nb-gradle/
